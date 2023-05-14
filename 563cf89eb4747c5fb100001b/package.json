@@ -1,0 +1,17 @@
+{
+  "name": "563cf89eb4747c5fb100001b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.4"
+  },
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}

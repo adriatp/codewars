@@ -1,0 +1,16 @@
+{
+  "name": "52223df9e8f98c7aa7000062",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "mocha": "mocha index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
