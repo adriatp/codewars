@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require index"
+    "test": "mocha --require index",
+    "start": "mocha index"
   },
   "author": "",
   "license": "ISC",
